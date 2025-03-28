@@ -1,5 +1,5 @@
 let base = 10
 let altura = 5
 
-let resultado = base * altura
+let.resultado = base * altura
 console.log ('a área é' + resultado) 
